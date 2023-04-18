@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nemat</h1>
 <h3 align="center">A fresh graduate of computer system engineering</h3>
-<img src="https://images.app.goo.gl/r7eWrrX7n31Zcg5b9" align="right" width="540" hight="304"/>
 
 
 - 📫 How to reach me **nematmimi01@gmail.com**

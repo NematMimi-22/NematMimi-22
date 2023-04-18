@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nemat</h1>
 <h3 align="center">A fresh graduate of computer system engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nematmimi-22" alt="nematmimi-22" /></a> </p>
+<p align="left"> <a href="https://images.app.goo.gl/31NtDaU7CNKZYuQk6" alt="nematmimi-22" /></a> </p>
 
 - 📫 How to reach me **nematmimi01@gmail.com**
 
